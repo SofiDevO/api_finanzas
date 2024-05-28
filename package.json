@@ -1,5 +1,5 @@
 {
-  "name": "alurageek-api",
+  "name": "usuario",
   "version": "1.0.0",
   "description": "Products for Alura Geek fake store api",
   "main": "index.js",
